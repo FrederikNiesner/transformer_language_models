@@ -1,0 +1,7 @@
+torch
+transformers
+pandas
+faiss-gpu
+numpy
+kaggle
+datasets
